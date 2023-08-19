@@ -8,4 +8,4 @@ projects.
 •Technology used:
 JavaScript,HTML,CSS,React,Node.js,npm
 
-Visit my website - https://vijethportfolio.netlify.app/
+Visit my website - https://vijethportfoliowebsite.netlify.app/
